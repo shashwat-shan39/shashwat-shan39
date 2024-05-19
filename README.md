@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **hospital management system**
 
-- 🌱 I’m currently learning **next js, express js**
+- 🌱 I’m currently learning **next js, express js, Wordpress**
 
-- 💬 Ask me about **react, javascript, wordpress, Node, DSA**
+- 💬 Ask me about **react, javascript, PHP, Node, DSA**
 
 - 📫 How to reach me **sshandilya1833@gmail.com**
 
