@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next js, express js**
 
-- 💬 Ask me about **react, javascript, Node, DSA**
+- 💬 Ask me about **react, javascript, wordpress, Node, DSA**
 
 - 📫 How to reach me **sshandilya1833@gmail.com**
 
