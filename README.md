@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **hospital management system**
 
-- 🌱 I’m currently learning **Next js, Wordpress**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React, Javascript, PHP, Node, Express, DSA**
 
