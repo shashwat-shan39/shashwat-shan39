@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sshandilya1833@gmail.com**
 
-- 📄 Know about my experiences [My_resume]((https://drive.google.com/file/d/1WzTsDItCuN4JXnfKnizJRxMtkPwWUuS8/view?usp=drive_link](https://drive.google.com/file/d/1vGmyAO-pCcSNQoNjkVDsLDQ6VckcsRVA/view?usp=sharing))
+- 📄 Know about my experiences [My_resume]([https://drive.google.com/file/d/1WzTsDItCuN4JXnfKnizJRxMtkPwWUuS8/view?usp=drive_link](https://drive.google.com/file/d/1vGmyAO-pCcSNQoNjkVDsLDQ6VckcsRVA/view?usp=sharing])
 
 - ⚡ Fun fact **I love developing apps, am a coding addict, enjoy competitive programming, and have a passion for chess.**
 
