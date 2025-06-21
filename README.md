@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure, DevOps pipelines, and Kubernetes**
 
-- 💬 Ask me about **Linux, Bash, Docker, Azure, Terraform, Git, Python**
+- 💬 Ask me about **Linux, Bash, Docker, Azure, Terraform, Git, javascript, react**
 
 - 📫 Reach me at **sshandilya1833@gmail.com**
 
