@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **sshandilya1833@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1IumFvtB7Fa1-D32HGbwydcIaoTMkReMU/view?usp=sharing)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1IumFvtB7Fa1-D32HGbwydcIaoTMkReMU/view?usp=sharing](https://drive.google.com/file/d/1IiV0v3Ck-1tP-sQHOkRD2bidwzb1eA3O/view?usp=sharing))
 
 - ⚡ Fun fact: **I love developing real-world solutions, scripting in Linux, and automating with Terraform — plus, I enjoy competitive coding and chess 🧠♟️**
 
